@@ -1,18 +1,12 @@
 # retrieve stats on each player that has logged onto minecraft server
 
 '''
-    TODO:
-    - create dataframe containing server stats
-    - create dataframe containing player stats
-        - total users w/ names -> usercache.json -> create cross ref. with UUID
-        - grab all stats for each player from stats
-        - grab all advancements / achievements from advancements
-        - add in who is OP
+    TODO / Future Add On's:
+    - add in player achievements
+    ?? .dat files ?? - what's in backpack ??
 
     LONGTERM:
-    - create minecraft story book from every message said in chat -> similar to group chat
-
-    ?? .dat files ?? - what's in backpack ??
+    - create minecraft story book from every message said in chat -> similar to SMS group chat
 '''
 
 import pandas as pd
