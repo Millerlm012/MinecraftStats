@@ -1,6 +1,7 @@
 # MinecraftStats
 
-About: MinecraftStats was created because I have a Minecraft server running and my friends were wanting to see some of their stats. So I wrote a python program to handle parsing files and making some nice csvs to be uploaded to Google Sheets. I think some point in the future I'd like to make a dedicated website to display the stats... Kind of like a leaderboad. <br />
+About: MinecraftStats was created because I have a Minecraft server running and my friends were wanting to see some of their stats. So... I wrote a python program to handle making the jsons into some nice csvs to be uploaded to Google Sheets. I think some point in the future I'd like to make a dedicated website to display the stats... Kind of like a leaderboad. <br />
+***
 
 To begin I first dug around in the servers directories to determine where the stats were and how they were offered. After learning that they're all stored in some nice jsons, I exported them from the server to my laptop. (The server is completely command-line based and I appreciate my text editor over using Nano or VIM) <br />
 
