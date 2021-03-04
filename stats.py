@@ -147,6 +147,6 @@ def GoogleUpload(name_csv, name):
 ################################################################################
 # initializing the program
 if __name__ == '__main__':
-    dir_to_usercache = '~/PythonProjects/MinecraftStats/proj/jsons/usercache.json'
-    dir_to_jsons = '~/PythonProjects/MinecraftStats/proj/jsons/stats/'
+    dir_to_usercache = '/Users/lmiller/PythonProjects/MinecraftStats/jsons/usercache.json'
+    dir_to_jsons = '/Users/lmiller/PythonProjects/MinecraftStats/jsons/stats/'
     CreateCSV(dir_to_usercache, dir_to_jsons)
